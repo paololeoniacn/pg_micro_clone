@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *.pyo
 
+# project
+*.sql
+
 # Virtual environment
 venv/
 
